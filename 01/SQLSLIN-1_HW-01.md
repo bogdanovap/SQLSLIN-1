@@ -48,7 +48,7 @@
 
 `repoquery -i mc` (нужно установить yum-utils)
 
-`apt-cache show mc'
+`apt-cache show mc`
 
 **3.2**
 
